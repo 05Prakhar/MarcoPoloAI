@@ -1,4 +1,4 @@
-The app is meant for travellers to easily plan their trip. People can search and share their itenary with their friends/family.
+The app is meant for travellers to easily discover and plan their trip. People can search and share their itenary with their friends/family.
 
 # Features
 
